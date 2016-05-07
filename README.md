@@ -1,7 +1,7 @@
 # Riot Parents
 
 [![Build Status](https://travis-ci.org/crisward/riot-parents.svg)](https://travis-ci.org/crisward/riot-parents)
-[![Coverage Status](https://coveralls.io/repos/crisward/riot-parentsparents/badge.svg?branch=master&service=github&v=3)](https://coveralls.io/github/crisward/riot-parents?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/crisward/riot-parents/badge.svg?branch=master)](https://coveralls.io/github/crisward/riot-parents?branch=master)
 [![NPM Downloads](https://img.shields.io/npm/dm/riot-parents.svg)](https://www.npmjs.com/package/riot-parents)
 [![NPM Downloads](https://img.shields.io/npm/v/riot-parents.svg)](https://www.npmjs.com/package/riot-parents)
 
