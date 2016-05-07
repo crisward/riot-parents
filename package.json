@@ -1,6 +1,6 @@
 {
   "name": "riot-parents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace parent.parent with parents(1)",
   "main": "lib/parents.js",
   "repository": "crisward/riot-parents",
