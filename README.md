@@ -25,11 +25,6 @@ I realise that accessing deep ancestors like this makes your components perhaps 
 coupled that they should be. But sometimes it's nice to be able to drop elements into
 `yielding` components and still be able to easily communitcate with them.
 
-I've developed this as a mixin to test out this idea before proposing
-as a possible solution to this issue in riot.
-
-See https://github.com/riot/riot/issues/1415 for the discussion
-
 ## Installing
 
 ```
