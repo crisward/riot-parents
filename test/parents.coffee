@@ -1,3 +1,4 @@
+require './bind-polyfill.js'
 window.riot = require 'riot'
 parents = require '../lib/parents.js'
 simulant = require 'simulant'
